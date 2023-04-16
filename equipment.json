@@ -2,33 +2,33 @@
     "equipment": [
         {
             "id": "1",
-            "EqpName": "URGENT",
-            "availableQty": " New Web UI Design Project",
-            "issuedQty": "Website UI Design for $500",
-            "issueDate": "10-11 AM"
+            "EqpName": "Arduino Board",
+            "availableQty": "100",
+            "issuedQty": "20",
+            "issueDate": "10/12/2023"
            
         },
         {
             "id": "2",
-            "EqpName": "ONGOING",
-            "availableQty": " New App UI Design Project",
-            "issuedQty": "Website UI Design for $500",
-            "issueDate": "9-11 AM"
+            "EqpName": "Arduino Board",
+            "availableQty": "100",
+            "issuedQty": "20",
+            "issueDate": "10/12/2023"
             
         },
         {
             "id": "3",
-            "EqpName": "RUNNING",
-            "availableQty": " Pic Web UI Design Project",
-            "issuedQty": "Website UI Design for $500",
-            "issueDate": "8-11 AM"
+            "EqpName": "Arduino Board",
+            "availableQty": "100",
+            "issuedQty": "20",
+            "issueDate": "10/12/2023"
         },
         {
             "id": "4",
-            "EqpName": "STOPPED",
-            "availableQty": " Pic Web UI Design Project",
-            "issuedQty": "Website UI Design for $500",
-            "issueDate": "8-11 AM"
+            "EqpName": "Arduino Board",
+            "availableQty": "100",
+            "issuedQty": "20",
+            "issueDate": "10/12/2023"
         }
     ]
 }
