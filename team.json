@@ -1,30 +1,6 @@
 {
     "teams":[
-        {
-            "name":"Team1",
-            "desc":"This is Team description",
-            "people":"3"
-        },
-        {
-            "name":"Team2",
-            "desc":"This is Team description",
-            "people":"3"
-        },
-        {
-            "name":"Team3",
-            "desc":"This is Team description",
-            "person":"3"
-        },
-        {
-            "name":"Team4",
-            "desc":"This is Team description",
-            "person":"3"
-        },
-        {
-            "name":"Team5",
-            "desc":"This is Team description",
-            "person":"3"
-        }
+       
 
     ]
 }
