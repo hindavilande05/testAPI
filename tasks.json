@@ -1,36 +1,5 @@
 {
     "tasks": [
-        {
-            "id": "1",
-            "status": "URGENT",
-            "title": " New Web UI Design Project",
-            "desc": "Website UI Design for $500",
-            "time": "10-11 AM",
-            "person": 4
-        },
-        {
-            "id": "2",
-            "status": "ONGOING",
-            "title": " New App UI Design Project",
-            "desc": "Website UI Design for $500",
-            "time": "9-11 AM",
-            "person": 4
-        },
-        {
-            "id": "3",
-            "status": "RUNNING",
-            "title": " Pic Web UI Design Project",
-            "desc": "Website UI Design for $500",
-            "time": "8-11 AM",
-            "person": 2
-        },
-        {
-            "id": "4",
-            "status": "STOPPED",
-            "title": " Pic Web UI Design Project",
-            "desc": "Website UI Design for $500",
-            "time": "8-11 AM",
-            "person": 2
-        }
+       
     ]
 }
