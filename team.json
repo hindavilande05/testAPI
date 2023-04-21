@@ -1,6 +1,30 @@
 {
     "teams":[
-       
+        {
+            "name":"RNXG-1",
+            "desc":"This is Software Team",
+            "people":"12"
+        },
+        {
+            "name":"RNXG-2",
+            "desc":"This is Hardware Team",
+            "people":"18"
+        },
+        {
+            "name":"RNXG-3",
+            "desc":"This is Electronics Team",
+            "person":"10"
+        },
+        {
+            "name":"RNXG-4",
+            "desc":"This is Robocon Team",
+            "person":"23"
+        },
+        {
+            "name":"RNXG-5",
+            "desc":"This is E-yantra Team",
+            "person":"20"
+        }
 
     ]
 }
